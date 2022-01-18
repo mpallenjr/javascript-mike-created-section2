@@ -159,3 +159,16 @@ Practical.
 \\\\\\\\\\
 
 Section 25 - Switch Statement
+
+\\\\\\\\\\
+
+Section 26 - Statements and Expressions
+
+expressions produce valuse (ie 3+4)  if it produces a value in Javascript, it is an 'expression'
+
+statements are larger pieces of code that do not produce values on their own. 
+
+IE  in english a declaration is the statmeent, the be expressions are the actual words being used. 
+
+an if else statement might create a comparison but it does not produce a value, just encourages the action that is going to be performend. 
+

@@ -333,3 +333,14 @@ console.log('Enjoy the weekend')
    console.log('Not a vaild Day')
  }
  */
+
+ 3 + 4;
+ 1991;
+ true && false && !false;
+// all examples of expressions, the produce values in JS.
+
+if (23 >10) {
+  const str = '23 is bigger';
+}
+// provides a comparison but does not actually produce a value
+
